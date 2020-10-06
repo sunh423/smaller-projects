@@ -117,7 +117,7 @@ input{
     padding: 0 3em;
     height: 45px;
     width: 580px;
-    background: url("search.png") left center no-repeat, url("google voice.PNG") right center no-repeat;
+    background: url("search.png") left center no-repeat, url("google_voice.PNG") right center no-repeat;
     background-size: contain, contain;
     border:1px solid #dcdcdc;
     outline:none;
